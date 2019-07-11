@@ -1,7 +1,10 @@
 import React from "react";
+import './App.css';
+
+import Techlist from './components/TechList';
 
 function App() {
-  return <h1>Hello Mundo</h1>
+  return <Techlist />
 
 }
 
